@@ -15,7 +15,6 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 * Belajar gerbang logika (AND, OR, NOT, NAND, NOR, XOR, XNOR)
 * Belajar pengenalan dasar computational thinking (Decomposition, Abstraction, Algorithm, Evaluation)
 
-**10 Februari 2026**<br>
 Belajar Dasar Git dengan GitHub. (Progres 61%)
 * Belajar Dasar Git
 * Belajar Git Branches
