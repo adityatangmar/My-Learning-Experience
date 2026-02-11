@@ -20,3 +20,11 @@ Belajar Dasar Git dengan GitHub. (Progres 100%)
 * Belajar Git Branches
 * Belajar Studi kasus (Pengalaman Belajar, Kolaborasi dengan Tim)
 * Belajar Membuat Portfolio
+
+---
+
+**11 Februari 2026**<br>
+Belajar Dasar AI (Progres --%)
+* Belajar Pengenalan Artificial Intelligence (AI)
+* 
+
