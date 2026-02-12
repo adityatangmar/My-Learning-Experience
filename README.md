@@ -26,5 +26,11 @@ Belajar Dasar Git dengan GitHub. (Progres 100%)
 **11 Februari 2026**<br>
 Belajar Dasar AI (Progres --%)
 * Belajar Pengenalan Artificial Intelligence (AI)
-* 
+
+---
+
+**12 Februari 2026**<br>
+Belajar Dasar AI (Progres --%)
+* Belajar Pengenalan Artificial Intelligence (AI)
+* Belajar Data untuk AI
 
