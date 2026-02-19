@@ -85,3 +85,30 @@ Memulai Pemrograman dengan Python (Progres --%)
 * Belajar Aksi Sekuensial
 * Belajar Control Flow(Percabangan dan Perulangan)
 
+---
+
+**19 Februari 2026**<br>
+Memulai Pemrograman dengan Python (Progres --%)
+* Belajar Berkenalan dengan Python (variabel dan assignment)
+* Belajar Berinteraksi dengan data (tipe data, dictionary, operasi list)
+* Belajar ekspresi
+* Belajar Aksi Sekuensial
+* Belajar Control Flow (Percabangan dan Perulangan)
+* Belajar Array dan Pemrosesannya
+* Belajar Matriks
+* Belajar SubProgram (Fungsi dan Prosedur)
+
+---
+
+**20 Februari 2026**<br>
+Memulai Pemrograman dengan Python (Progres --%)
+* Belajar Berkenalan dengan Python (variabel dan assignment)
+* Belajar Berinteraksi dengan data (tipe data, dictionary, operasi list)
+* Belajar ekspresi
+* Belajar Aksi Sekuensial
+* Belajar Control Flow (Percabangan dan Perulangan)
+* Belajar Array dan Pemrosesannya
+* Belajar Matriks
+* Belajar SubProgram (Fungsi dan Prosedur)
+* Belajar Object Oriented Programming (class, atribut, method, object, inheritaance)
+* Belajar style Guide pada Python
