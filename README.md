@@ -158,4 +158,11 @@ Memulai Pemrograman dengan Python (Progres 100%)
 
 **24 Februari 2026**<br>
 Belajar Machine Learning untuk Pemula (Progres --%)
-* Belajar Pengenalan Machine Learning 
+* Belajar Pengenalan Machine Learning
+
+---
+
+**25 Februari 2026**<br>
+Belajar Machine Learning untuk Pemula (Progres --%)
+* Belajar Pengenalan Machine Learning
+* Belajar MAchine Learning Workflow (Data Collecting, Data Loading, Data Cleaning dan Transformation, Data Splitting, Modeling, Deploy dan Monitoring)
