@@ -166,3 +166,12 @@ Belajar Machine Learning untuk Pemula (Progres --%)
 Belajar Machine Learning untuk Pemula (Progres --%)
 * Belajar Pengenalan Machine Learning
 * Belajar MAchine Learning Workflow (Data Collecting, Data Loading, Data Cleaning dan Transformation, Data Splitting, Modeling, Deploy dan Monitoring)
+
+---
+
+**26 Februari 2026**<br>
+Belajar Machine Learning untuk Pemula (Progres --%)
+* Belajar Pengenalan Machine Learning
+* Belajar Machine Learning Workflow (Data Collecting, Data Loading, Data Cleaning dan Transformation, Data Splitting, Modeling, Deploy dan Monitoring)
+* Belajar Supervised Learning - Klasifikasi (SVM, Decision Tree, Random Forest, KNN, Naive Bayes, Evaluasi Model Klasifikasi) 
+* Belajar Supervised Learning - Regresi (Linear, Polinomial, SVR, Decision Tree Regression, Neural Network Regression, Evaluasi Model Regression)
