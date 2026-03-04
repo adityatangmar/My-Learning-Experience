@@ -225,6 +225,12 @@ Belajar Machine Learning untuk Pemula (Progres 100%)
 ---
 
 **3 Maret 2026**<br>
-Belajar Fundamental Deep Learning (Progres 52%)
+Belajar Fundamental Deep Learning (Progres 15%)
 * Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
 
+---
+
+**4 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres 25%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
