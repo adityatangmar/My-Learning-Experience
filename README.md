@@ -242,3 +242,88 @@ Belajar Fundamental Deep Learning (Progres 37%)
 * Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
 * Belajar Neural Network dengan Tensorflow dan Keras
 * Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+
+---
+
+**6 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres --%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Mengerjakan Proyek Analisa Sentimen
+
+ ---
+
+**7 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres --%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Menyelesaikan Proyek Analisa Sentimen
+
+ ---
+
+**8 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres --%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Menyelesaikan Proyek Analisa Sentimen
+* Belajar Time Series
+
+ ---
+
+**9 Maret 2026**<br>
+[Univ] Coding Camp powered by DBS Foundation 2026 - Kuis ILT AI Engineer (Progres 68%)
+* Belajar Understanding the Basic of Python Programing
+* Belajar Introduction to Supervised Learning: Concepts and Applications
+
+---
+
+**10 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres --%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Menyelesaikan Proyek Analisa Sentimen
+* Belajar Time Series
+* Belajar Klasifikasi Gambar part 1 (Tahapan Klasifikasi Gambar, Pengumpulan Data, Data Splitting, Pra-pemrosesan Data Gambar)
+
+---
+
+**12 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres --%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Menyelesaikan Proyek Analisa Sentimen
+* Belajar Time Series
+* Belajar Klasifikasi Gambar part 1 (Tahapan Klasifikasi Gambar, Pengumpulan Data, Data Splitting, Pra-pemrosesan Data Gambar)
+* Belajar Klasifikasi Gambar part 2 (Modeling Klasifikasi Gambar CNN, Evaluasi Model, Transfer Learning, Latihan Klasifikasi Gambar)
+
+---
+
+**14 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres --%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Menyelesaikan Proyek Analisa Sentimen
+* Belajar Time Series
+* Belajar Klasifikasi Gambar part 1 (Tahapan Klasifikasi Gambar, Pengumpulan Data, Data Splitting, Pra-pemrosesan Data Gambar)
+* Belajar Klasifikasi Gambar part 2 (Modeling Klasifikasi Gambar CNN, Evaluasi Model, Transfer Learning, Latihan Klasifikasi Gambar)
+* Belajar Sistem Rekomendasi (Collaborative Filtering, Content Based Filtering, Latihan Membangun Sistem Rekomendasi)
+
+---
+
+**15 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres --%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Menyelesaikan Proyek Analisa Sentimen
+* Belajar Time Series
+* Belajar Klasifikasi Gambar part 1 (Tahapan Klasifikasi Gambar, Pengumpulan Data, Data Splitting, Pra-pemrosesan Data Gambar)
+* Belajar Klasifikasi Gambar part 2 (Modeling Klasifikasi Gambar CNN, Evaluasi Model, Transfer Learning, Latihan Klasifikasi Gambar)
+* Belajar Sistem Rekomendasi (Collaborative Filtering, Content Based Filtering, Latihan Membangun Sistem Rekomendasi)
+* Belajar Reinforcement Learning Part 1 (Markov Decision Process, Q-Learing)
