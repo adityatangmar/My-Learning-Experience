@@ -327,3 +327,27 @@ Belajar Fundamental Deep Learning (Progres --%)
 * Belajar Klasifikasi Gambar part 2 (Modeling Klasifikasi Gambar CNN, Evaluasi Model, Transfer Learning, Latihan Klasifikasi Gambar)
 * Belajar Sistem Rekomendasi (Collaborative Filtering, Content Based Filtering, Latihan Membangun Sistem Rekomendasi)
 * Belajar Reinforcement Learning Part 1 (Markov Decision Process, Q-Learing)
+
+---
+
+**16 Maret 2026**<br>
+ILT-EN1-C-065 • Expressing Your Opinions
+
+---
+
+**17 Maret 2026**<br>
+Belajar Fundamental Deep Learning (Progres 74%)
+* Belajar Pengenalan Deep Learning (dasar2 Neural Network, arsitektur Deep Learning, pengenalan CNN dan RNN)
+* Belajar Neural Network dengan Tensorflow dan Keras
+* Belajar Natural Language Processing (Text Preprocessing, Ekstraksi Fitur, Algoritma RNN)
+* Menyelesaikan Proyek Analisa Sentimen
+* Belajar Time Series
+* Belajar Klasifikasi Gambar part 1 (Tahapan Klasifikasi Gambar, Pengumpulan Data, Data Splitting, Pra-pemrosesan Data Gambar)
+* Belajar Klasifikasi Gambar part 2 (Modeling Klasifikasi Gambar CNN, Evaluasi Model, Transfer Learning, Latihan Klasifikasi Gambar)
+* Belajar Sistem Rekomendasi (Collaborative Filtering, Content Based Filtering, Latihan Membangun Sistem Rekomendasi)
+* Belajar Reinforcement Learning Part 1 (Markov Decision Process, Q-Learing)
+* Belajar Reinforcement Learning Part 2 (Policies and Value Functions, Exploration vs Exploitation pada MDP)
+
+
+
+
